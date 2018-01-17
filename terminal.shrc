@@ -1,0 +1,15 @@
+# This is common terminal setup file
+# the extension .shrc is choosen to be usable for both zsh and bash
+# installation:
+# export TERMINAL_SETUP_FILE="/Users/sergei/dotfiles/terminal.shrc"
+# if [ -f $TERMINAL_SETUP_FILE ]; then
+#    source $TERMINAL_SETUP_FILE
+# else
+#    print "404: terminal.shrc is not found. Set up isn't completed"
+# fi
+
+# now pip requires me to use virt enviroment in order to use it.
+export PIP_REQUIRE_VIRTUALENV=true
+
+# virtual env should be centrilized
+export VENV_HOME="~/SoftDev/python3envs"
