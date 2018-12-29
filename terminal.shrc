@@ -12,7 +12,7 @@
 export PIP_REQUIRE_VIRTUALENV=true
 
 # virtual env should be centrilized
-export VENV_HOME="~/SoftDev/python3envs"
+export VENV_HOME="/Users/sergei/SoftDev/python3envs"
 
 # Preferred editor for local and remote sessions
 if [[ -n $SSH_CONNECTION ]]; then
