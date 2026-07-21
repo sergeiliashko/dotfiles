@@ -1,0 +1,10 @@
+[core]
+	editor = nvim
+[user]
+	name = serj
+	email = serj@io.com
+[init]
+	defaultBranch = main
+[rebase]
+	autoStash = false
+
