@@ -1,0 +1,14 @@
+ghosty
+git
+neovim
+tmux
+fzf
+ripgrep
+
+
+# Python
+pipx
+uv
+
+openssh-clients # linux
+
