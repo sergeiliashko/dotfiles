@@ -1,4 +1,7 @@
 ghosty
+o
+zsh
+
 git
 neovim
 tmux
